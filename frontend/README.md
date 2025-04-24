@@ -60,4 +60,4 @@ docker run -p 80:80 -e API_URL=http://localhost:5000/api --name frontend auth-fr
 ## API Communication
 
 The frontend communicates with the backend API through:
-- Development: Vite's built-in proxy
+- Development: Vite's built-in proxy which helps in CORS related concerns and Axios
