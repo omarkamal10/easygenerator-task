@@ -28,8 +28,8 @@ NODE_ENV=production docker-compose up -d
 
 ### Access the API
 
-- API Endpoints: http://localhost:3001/api
-- API Documentation: http://localhost:3001/api/docs
+- API Endpoints: http://localhost:5000/api
+- API Documentation: http://localhost:5000/api/docs
 
 ## Running Tests
 
