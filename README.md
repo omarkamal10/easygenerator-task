@@ -1,6 +1,7 @@
 # Auth Application
 
 A full-stack authentication application with React/Vite frontend and NestJS backend.
+Each subfolder has its own readme files as well.
 
 ## Features
 
@@ -26,7 +27,7 @@ docker-compose up -d
 ```
 
 3. Access the application:
-   - Frontend: http://localhost:3000
+   - Frontend: http://localhost:8080
    - API: http://localhost:5000/api
    - API Documentation: http://localhost:5000/api/docs
 
